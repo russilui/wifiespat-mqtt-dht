@@ -6,6 +6,8 @@
   a topic once a second. It makes use of UnoWiFiDevEdSerial1 and 
   WiFiEspAT with persistent WiFi settings to send DHT sensor 
   readings to the MQTT broker using Arduino MQTT library.
+
+  It was tested successfully on a local Home Assistant implementation.
   
   The circuit:
   - Uno WiFi Dev Ed board
