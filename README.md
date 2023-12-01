@@ -1,6 +1,6 @@
 # wifiespat-mqtt-dht
 
-## Arduino UNO WiFi Developer Edition Simple DHT sensor data MQTT Sender
+## Arduino UNO WiFi Dev. Ed. simple DHT sensor data MQTT sender
 
   This example connects to a local MQTT broker and publishes a message to
   a topic once a second. It makes use of UnoWiFiDevEdSerial1 and 
